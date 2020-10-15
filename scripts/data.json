@@ -1,0 +1,148 @@
+{
+    "verbosity": {
+        "twilight": 0.26,
+        "applejack": 0.15,
+        "rainbow": 0.17,
+        "rarity": 0.15,
+        "fluttershy": 0.12,
+        "pinkie": 0.16
+    },
+    "mentions": {
+        "twilight": {
+            "rainbow": 0.2,
+            "applejack": 0.15,
+            "pinkie": 0.31,
+            "rarity": 0.17,
+            "fluttershy": 0.17
+        },
+        "applejack": {
+            "twilight": 0.27,
+            "rainbow": 0.17,
+            "pinkie": 0.25,
+            "rarity": 0.21,
+            "fluttershy": 0.1
+        },
+        "rainbow": {
+            "twilight": 0.21,
+            "fluttershy": 0.21,
+            "rarity": 0.1,
+            "pinkie": 0.3,
+            "applejack": 0.17
+        },
+        "rarity": {
+            "twilight": 0.21,
+            "pinkie": 0.17,
+            "rainbow": 0.18,
+            "applejack": 0.27,
+            "fluttershy": 0.16
+        },
+        "fluttershy": {
+            "rarity": 0.23,
+            "twilight": 0.31,
+            "applejack": 0.09,
+            "pinkie": 0.14,
+            "rainbow": 0.23
+        },
+        "pinkie": {
+            "twilight": 0.31,
+            "applejack": 0.14,
+            "rainbow": 0.26,
+            "fluttershy": 0.14,
+            "rarity": 0.15
+        }
+    },
+    "follow_on_comments": {
+        "twilight": {
+            "other": 0.53,
+            "applejack": 0.09,
+            "rainbow": 0.1,
+            "rarity": 0.08,
+            "fluttershy": 0.08,
+            "pinkie": 0.11
+        },
+        "applejack": {
+            "other": 0.39,
+            "twilight": 0.15,
+            "pinkie": 0.11,
+            "rainbow": 0.14,
+            "rarity": 0.14,
+            "fluttershy": 0.08
+        },
+        "rainbow": {
+            "twilight": 0.17,
+            "other": 0.4,
+            "applejack": 0.12,
+            "fluttershy": 0.1,
+            "rarity": 0.09,
+            "pinkie": 0.12
+        },
+        "rarity": {
+            "other": 0.4,
+            "twilight": 0.13,
+            "pinkie": 0.1,
+            "fluttershy": 0.1,
+            "applejack": 0.16,
+            "rainbow": 0.11
+        },
+        "fluttershy": {
+            "other": 0.34,
+            "twilight": 0.18,
+            "rainbow": 0.15,
+            "rarity": 0.14,
+            "applejack": 0.11,
+            "pinkie": 0.09
+        },
+        "pinkie": {
+            "other": 0.39,
+            "twilight": 0.18,
+            "applejack": 0.12,
+            "rarity": 0.1,
+            "rainbow": 0.15,
+            "fluttershy": 0.07
+        }
+    },
+    "non_dictionary_words": {
+        "twilight": [
+            "i'm",
+            "don't",
+            "it's",
+            "you're",
+            "can't"
+        ],
+        "applejack": [
+            "don't",
+            "i'm",
+            "it's",
+            "y'all",
+            "you're"
+        ],
+        "rainbow": [
+            "i'm",
+            "don't",
+            "it's",
+            "you're",
+            "that's"
+        ],
+        "rarity": [
+            "i'm",
+            "it's",
+            "don't",
+            "you're",
+            "that's"
+        ],
+        "fluttershy": [
+            "i'm",
+            "don't",
+            "it's",
+            "you're",
+            "that's"
+        ],
+        "pinkie": [
+            "it's",
+            "i'm",
+            "don't",
+            "that's",
+            "you're"
+        ]
+    }
+}
